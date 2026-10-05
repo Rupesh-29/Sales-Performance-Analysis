@@ -44,33 +44,19 @@ Combines **Region + Category + Channel** to identify the strongest business comb
 
 ---
 
-# 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-> **Click any dashboard image to open the full-size version.**
+### Page 1 — Overall Sales Analysis
+![Overall Sales Analysis](./page_1_Overall_Sales.png)
 
-## Page 1 — Overall Sales Analysis
+### Page 2 — Channel Analysis
+![Channel Analysis](./page_2_Channel_Analysis.png)
 
-[![Overall Sales Analysis](Dashboard/Page_1_Overall_Sales.png)](Dashboard/Page_1_Overall_Sales.png)
+### Page 3 — Deeper Analysis
+![Deeper Analysis](./page_3_Deeper_Analysis.png)
 
----
-
-## Page 2 — Channel Analysis
-
-[![Channel Analysis](Dashboard/Page_2_Channel_Analysis.png)](Dashboard/Page_2_Channel_Analysis.png)
-
----
-
-## Page 3 — Payment & Deeper Analysis
-
-[![Payment & Deeper Analysis](Dashboard/Page_3_Payment_Deeper_Analysis.png)](Dashboard/Page_3_Payment_Deeper_Analysis.png)
-
----
-
-## Page 4 — Advanced Business Analysis
-
-[![Advanced Business Analysis](Dashboard/Page_4_Advanced_Business_Analysis.png)](Dashboard/Page_4_Advanced_Business_Analysis.png)
-
----
+### Page 4 — Advanced Business Insights
+![Advanced Business Insights](./page_4_Advanced_Business_Insights.png)
 
 # 📈 Key KPIs
 
